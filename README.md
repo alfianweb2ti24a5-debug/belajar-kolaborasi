@@ -2,5 +2,6 @@
 # di
 * dicoding
 menggunakan github<br>
-asyik
+asyik<b>
+sekali<br>
 
