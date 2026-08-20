@@ -2,6 +2,7 @@
 # di
 * dicoding
 menggunakan github<br>
-asyik<b>
+asyik<br>
 sekali<br>
+yuk<br>
 
